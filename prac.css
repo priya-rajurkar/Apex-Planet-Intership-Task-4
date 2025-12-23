@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+   
+
+}
+
+#navbar {
+    height: 60px;
+    background-color: #0f1111;
+    color: rgb(255, 255, 255);
+
+
+
+}
+
+button {
+    background-color: #f08804;
+ 
+}
+
+#logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 20px;
+    line-height: 60px;
+    color: #f08804;
+ 
+}
+
+a{
+     margin-right: 190px;
+     text-decoration: none;
+}
+
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+
+section {
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+h1, h2 {
+    margin-bottom: 10px;
+}
